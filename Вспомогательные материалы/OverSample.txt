@@ -1,0 +1,2 @@
+https://imbalanced-learn.org/stable/over_sampling.html
+https://grabngoinfo.com/four-oversampling-and-under-sampling-methods-for-imbalanced-classification-using-python/

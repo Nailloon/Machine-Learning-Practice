@@ -1,1 +1,2 @@
-https://github.com/IamVOC/MLBasics
+Kind People: https://github.com/IamVOC/MLBasics
+Пример Тверского: https://github.com/otverskoj/streamlit-demo
